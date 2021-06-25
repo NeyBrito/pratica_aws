@@ -1,7 +1,5 @@
 # Introdução prática a computação em nuvem usando AWS
 
-### Criando um pool de usuários com Amazon Cognito
-
  #### Roteiro de Desenvolvimento 
 
 - Criar tabela no DynomeDB
